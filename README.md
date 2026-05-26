@@ -3,6 +3,9 @@
   <b>Backend Developer | JavaScript | NestJS | PostgreSQL</b>
 </p>
 <p align="center">
+  <a href="https://www.linkedin.com/in/chetan-chetu-b3040338b">
+    <img src="https://img.shields.io/badge/LinkedIn-Chetan%20Chetu-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
   <a href="mailto:chetan.cse.rymec@gmail.com">
     <img src="https://img.shields.io/badge/Email-chetan.cse.rymec%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
@@ -99,7 +102,7 @@ Contact
 <p>
   <b>Email:</b> <a href="mailto:chetan.cse.rymec@gmail.com">chetan.cse.rymec@gmail.com</a><br/>
   <b>GitHub:</b> <a href="https://github.com/chetan-dev789">github.com/chetan-dev789</a><br/>
-  <b>LinkedIn:</b> Add your LinkedIn profile link here
+  <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/chetan-chetu-b3040338b">linkedin.com/in/chetan-chetu-b3040338b</a>
 </p>
 ---
 <p align="center">
